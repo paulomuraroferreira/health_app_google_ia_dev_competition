@@ -3,7 +3,7 @@ import { getAuth, connectAuthEmulator } from "firebase/auth";
 import { getFirestore, connectFirestoreEmulator } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCGcp0CkE2__eU-mVAxjYHf1CIHSOZV29o",
+  apiKey: "",
   authDomain: "dev-competition-8f302.firebaseapp.com",
   projectId: "dev-competition-8f302",
   storageBucket: "dev-competition-8f302.appspot.com",
