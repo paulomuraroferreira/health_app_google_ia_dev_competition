@@ -226,11 +226,11 @@ def main():
     uploader = FirestoreCollectionsUploader(firestore_handler=firestore_handler)
 
     #collections MUST be uploaded in this order.    
-    # uploader.upload_neighborhood_geometric_info()
-    # uploader.upload_user_info()
+    uploader.upload_neighborhood_geometric_info()
+    uploader.upload_user_info()
     uploader.upload_data_deseases()
-    # uploader.upload_symptoms_list()
-    # uploader.upload_risk_factors()
+    uploader.upload_symptoms_list()
+    uploader.upload_risk_factors()
     
 
 if __name__ == "__main__":

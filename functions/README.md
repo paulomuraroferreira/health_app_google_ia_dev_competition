@@ -1,6 +1,6 @@
 ## Running application
 
-    git clone (https://github.com/paulomuraroferreira/health_app_google_ia_dev_competition.git)  
+    git clone https://github.com/paulomuraroferreira/health_app_google_ia_dev_competition.git  
 
     cd health_app_google_ia_dev_competition
 
