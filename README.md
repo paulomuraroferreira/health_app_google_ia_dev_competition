@@ -23,7 +23,7 @@ user's neighborhood.
 
 ## INSTRUCTIONS
 
-Instructions to run the application can be found on functions/README.md and 
+Instructions to run the application can be found in functions/README.md and 
 frontend/README.md.
 
 # Disease Probability Estimation Model
