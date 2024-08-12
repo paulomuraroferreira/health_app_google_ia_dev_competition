@@ -53,4 +53,4 @@ It must receive
     "symptoms": "fever,cough,shortness of breath",
     }
 
-A request can be seen on functions/request_test.py.
+A request can be seen in functions/request_test.py.
