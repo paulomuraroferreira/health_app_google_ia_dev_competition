@@ -1,3 +1,5 @@
+Check the app here: https://dev-competition-8f302.web.app/
+
 ## Overview
 
 The model aims to estimate the probability of various diseases for a user based on their symptoms, the distribution of diseases in different neighborhoods, and the presence of specific risk factors. This estimation is particularly useful in public health scenarios for timely interventions and resource allocation.
