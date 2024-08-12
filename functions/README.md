@@ -1,8 +1,8 @@
 ## Running application
 
-    git clone (https://github.com/paulomuraroferreira/google_ia_dev_competition_health_app.git)  
+    git clone (https://github.com/paulomuraroferreira/health_app_google_ia_dev_competition.git)  
 
-    cd google_firebase
+    cd health_app_google_ia_dev_competition
 
     pip install -e .
 
