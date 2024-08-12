@@ -6,7 +6,7 @@
 
     pip install -e .
 
-Fill the enviroment variables on functions/.env with the following variables
+Fill the enviroment variables in functions/.env with the following variables
 
 GOOGLE_API_KEY  
 GOOGLEV3_GEOCODING_KEY  
