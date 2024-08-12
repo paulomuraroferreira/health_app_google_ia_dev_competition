@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "dev-competition-8f302"
+  },
+  "dataconnectEmulatorConfig": {
+    "postgres": {
+      "localConnectionString": "postgresql://localhost:5432?sslmode=disable"
+    }
+  }
+}
