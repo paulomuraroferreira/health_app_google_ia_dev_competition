@@ -50,7 +50,7 @@ It must receive
 
     data = {
     "user_id": "useremail@email.com",
-    "symptoms": "fever","cough,shortness of breath",
+    "symptoms": ["fever","cough","shortness of breath"],
     }
 
 A request can be seen in functions/request_test.py.
